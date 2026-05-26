@@ -70,8 +70,7 @@ A continuación se detallan las estructuras resultantes impresas por el intérpr
 
 Este proyecto fue desarrollado íntegramente por:
 * **Jefferson Manuel Valencia Riascos** - *Desarrollador Principal*
-* Estudiante de Ingeniería de Sistemas.
-
+  
 Si tienes alguna sugerencia o encontraste un error, puedes abrir un **Issue** en este repositorio.
 
 ## 📄 licencia

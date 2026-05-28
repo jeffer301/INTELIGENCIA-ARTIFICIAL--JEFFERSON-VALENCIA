@@ -1,0 +1,61 @@
+﻿Producto,Precio,Cantidad,Costo_Envio,Categoria
+Laptop,3500000,4,50000,Tecnología
+Mouse,80000,15,10000,Tecnología
+Teclado,120000,10,12000,Tecnología
+Silla,450000,5,30000,Oficina
+Escritorio,900000,3,40000,Oficina
+Monitor,1100000,6,35000,Tecnología
+Auriculares Bluetooth,280000,8,15000,Tecnología
+Webcam HD,150000,12,12000,Tecnología
+Micrófono USB,200000,7,10000,Tecnología
+Disco Duro Externo 1TB,320000,10,20000,Tecnología
+Disco Duro Externo 2TB,480000,6,25000,Tecnología
+SSD 500GB,280000,14,15000,Tecnología
+SSD 1TB,450000,9,18000,Tecnología
+Memoria RAM 8GB,120000,20,8000,Tecnología
+Memoria RAM 16GB,220000,15,10000,Tecnología
+Tarjeta Gráfica GTX 1650,950000,4,40000,Tecnología
+Tarjeta Gráfica RTX 3060,1800000,3,55000,Tecnología
+Procesador Intel i5,780000,5,35000,Tecnología
+Procesador Intel i7,1200000,4,42000,Tecnología
+Procesador AMD Ryzen 5,650000,6,32000,Tecnología
+Procesador AMD Ryzen 7,950000,5,38000,Tecnología
+Placa Base ATX,380000,7,30000,Tecnología
+Fuente de Poder 650W,180000,10,20000,Tecnología
+Gabinete Gaming,250000,6,22000,Tecnología
+Mouse Pad XL,35000,25,5000,Tecnología
+Hub USB 4 Puertos,45000,18,8000,Tecnología
+Hub USB 7 Puertos,75000,12,12000,Tecnología
+Cable HDMI 2m,25000,30,5000,Tecnología
+Cable HDMI 5m,45000,15,10000,Tecnología
+Adaptador USB-C,180000,8,18000,Tecnología
+Cargador Inalámbrico,85000,20,8000,Tecnología
+Power Bank 10000mAh,160000,10,12000,Tecnología
+Power Bank 20000mAh,95000,18,8000,Tecnología
+Impresora Láser,350000,5,30000,Tecnología
+Impresora Multifuncional,580000,3,45000,Tecnología
+Escáner Portátil,220000,9,22000,Tecnología
+Router WiFi 6,1100000,6,25000,Tecnología
+Switch 8 Puertos,1400000,4,30000,Tecnología
+Access Point,480000,11,18000,Tecnología
+Tablet 10 pulgadas,320000,8,15000,Tecnología
+iPad Mini,680000,5,22000,Tecnología
+Teléfono Inteligente Básico,85000,20,8000,Tecnología
+Smartwatch Básico,750000,12,28000,Tecnología
+Smartwatch Premium,1200000,7,35000,Tecnología
+Banda Fitness,650000,15,30000,Tecnología
+Altavoz Portátil,350000,6,15000,Tecnología
+Altavoz Escritorio,1900000,2,50000,Tecnología
+Proyector Full HD,280000,13,12000,Tecnología
+Lector de Tarjetas,280000,10,12000,Tecnología
+UPS 600VA,380000,8,15000,Tecnología
+UPS 1200VA,350000,7,14000,Tecnología
+Teclado Mecánico,1300000,22,38000,Tecnología
+Mouse Ergonómico,95000,18,8000,Tecnología
+Mouse Gaming,150000,16,10000,Tecnología
+Monitor 27 pulgadas,280000,5,12000,Tecnología
+Monitor Curvo 32 pulgadas,450000,4,18000,Tecnología
+Laptop Gamer,150000,2,10000,Tecnología
+Laptop Ultrabook,1500000,3,55000,Tecnología
+Mini PC,2100000,8,60000,Tecnología
+Raspberry Pi 4,4800000,14,70000,Tecnología

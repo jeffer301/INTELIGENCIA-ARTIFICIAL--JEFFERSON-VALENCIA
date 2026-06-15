@@ -3,6 +3,8 @@
 **Universidad del Pacífico · Ingeniería de Sistemas · Inteligencia Artificial**  
 **Estudiante:** Jefferson Manuel Valencia Riascos · **Semestre 8 – Corte II**
 
+[![Abrir en Google Sheets](https://img.shields.io/badge/Google%20Sheets-Abrir%20tabla%20de%20frecuencias-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1oH3DZo32_JmRHtZ4cB0NrZ3MgNn6TBfQITGUtvLhDaQ/edit?usp=sharing)
+
 ---
 
 ## Descripción

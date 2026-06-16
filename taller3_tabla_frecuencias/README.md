@@ -15,7 +15,7 @@ Análisis estadístico descriptivo completo sobre la variable **Apps Descargadas
 
 | Archivo / Recurso | Descripción |
 |---|---|
-| [Tabla de frecuencias (Google Sheets)](https://docs.google.com/spreadsheets/d/1oH3DZo32_JmRHtZ4cB0NrZ3MgNn6TBfQITGUtvLhDaQ/edit?usp=sharing) | Tabla de distribución de frecuencias con fórmulas y 3 gráficos |
+| [Tabla de frecuencias (Google Sheets)](https://docs.google.com/spreadsheets/d/1Ig0WNLDaeeRPphFypD-bin1JReOuV9OQkJ_4lilqQ5g/edit?usp=sharing) | Tabla de distribución de frecuencias con fórmulas y 3 gráficos |
 | `Taller Tabla de frecuencias Jefferson Valencia.pdf` | Informe técnico – puntos 6 y 7 del taller |
 
 ## Resultados principales

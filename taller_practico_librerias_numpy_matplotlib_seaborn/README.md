@@ -52,7 +52,7 @@ mínimo y máximo**, usando NumPy/SciPy. La temperatura promedio resulta cercana
 que el proceso opera en torno al punto óptimo, y su dispersión (desviación estándar) explica buena
 parte de la variabilidad en la calidad de las piezas.
 
-## 4. Visualización de Datos (mínimo 6 gráficos)
+## 4. Visualización de Datos 
 
 El notebook incluye **7 visualizaciones**, cada una con su interpretación:
 

@@ -49,8 +49,7 @@ El código completo de generación está en la sección 3 del notebook (`Taller_
 
 Se calcularon, para cada variable numérica: **media, mediana, moda, desviación estándar, varianza,
 mínimo y máximo**, usando NumPy/SciPy. La temperatura promedio resulta cercana a 180°C, confirmando
-que el proceso opera en torno al punto óptimo, y su dispersión (desviación estándar) explica buena
-parte de la variabilidad en la calidad de las piezas.
+que el proceso opera en torno al punto óptimo, y su dispersión (desviación estándar).
 
 ## 4. Visualización de Datos 
 

@@ -56,36 +56,58 @@ parte de la variabilidad en la calidad de las piezas.
 
 El notebook incluye **7 visualizaciones**, cada una con su interpretación:
 
-1. Histograma de temperatura de producción.
-2. Histograma de presión de máquina.
-3. Gráfico de barras de piezas defectuosas vs. sanas.
-4. Heatmap de correlación (Seaborn).
-5. Boxplot de temperatura.
-6. Pairplot de variables coloreado por condición de la pieza (Seaborn).
-7. Boxplot comparativo de temperatura según defecto.
+1. Histograma de temperatura de producción <img width="689" height="360" alt="image" src="https://github.com/user-attachments/assets/d250fef4-e6f6-4556-b198-042c7514e6eb" />
+
+2. Histograma de presión de máquina <img width="563" height="358" alt="image" src="https://github.com/user-attachments/assets/2fc5a3d0-e442-4012-a184-0c4695f53591" />
+
+3. Gráfico de barras de piezas defectuosas vs sanas <img width="553" height="353" alt="image" src="https://github.com/user-attachments/assets/7a4ae129-f432-4792-865c-5093e52ebbb0" />
+
+4. Heatmap de correlación (Seaborn) <img width="663" height="342" alt="image" src="https://github.com/user-attachments/assets/20f7c6ae-a11d-41eb-a11b-12430c5234ff" />
+
+5. Boxplot de temperatura <img width="502" height="358" alt="image" src="https://github.com/user-attachments/assets/771c12d2-f59f-48e6-bc99-faa22a7ffc02" />
+
+6. Pairplot de variables coloreado por condición de la pieza (Seaborn) <img width="830" height="742" alt="image" src="https://github.com/user-attachments/assets/8d025c77-aa8f-4a72-a684-8e2731dde0b3" />
+
+7. Boxplot comparativo de temperatura según defecto <img width="608" height="360" alt="image" src="https://github.com/user-attachments/assets/b26fa42c-07c4-4988-8867-4a0b1c969187" />
+
+
 
 ## 5. Análisis Exploratorio
 
 **Hallazgos:**
-- Las piezas defectuosas muestran, en promedio, mayor desviación de temperatura respecto al valor
-  óptimo (180°C) que las piezas sanas.
-- La velocidad de producción extrema (muy alta o muy baja) también se asocia con mayor proporción
-  de defectos.
-- La presión y el tiempo de operación, en los rangos generados, no muestran una asociación tan marcada.
+- Las piezas defectuosas muestran, en promedio, una mayor desviación respecto al valor óptimo de
+  temperatura y de velocidad que las piezas sanas, aunque ambas relaciones son débiles
+  (correlación ≈ 0.06 para temperatura y ≈ 0.13 para velocidad).
+- La presión de máquina y el tiempo de operación no muestran una asociación relevante con los
+  defectos (correlación ≈ 0.04 y cercana a 0 respectivamente).
+- Visualmente, el pairplot y los boxplots comparativos no permiten distinguir con claridad a las
+  piezas defectuosas de las sanas, principalmente debido al desbalance entre clases del dataset
+  (69 piezas defectuosas frente a 431 sanas).
 
-**Variable más relevante:** Temperatura de Producción, seguida de Velocidad de Producción.
+**Relaciones entre variables:** no se encontraron relaciones lineales fuertes entre las variables
+del proceso entre sí (todas las correlaciones cruzadas están entre -0.08 y 0.05), lo cual es
+coherente con el hecho de que fueron generadas de forma independiente. La relación más relevante
+del análisis es la que existe entre la desviación de temperatura/velocidad respecto a sus valores
+óptimos y la probabilidad de defecto, aunque esta relación es moderada y no determinante por sí sola.
+
+**Variable más relevante:** la Velocidad de Producción (correlación ≈ 0.13), seguida de la
+Temperatura de Producción (correlación ≈ 0.06).
 
 ## 6. Conclusiones
 
-1. Las piezas defectuosas tienden a producirse cuando la temperatura se aleja significativamente
-   del valor óptimo de operación.
-2. La velocidad de producción extrema también está asociada con un mayor porcentaje de defectos.
-3. La presión de máquina, dentro del rango analizado, no muestra una relación tan clara con la
-   aparición de defectos.
-4. Existen valores atípicos de temperatura que coinciden con los lotes de mayor tasa de defectos,
-   sugiriendo fallos puntuales del proceso o de calibración.
+1. Las piezas defectuosas presentan, en promedio, una mayor desviación respecto al valor óptimo
+   de temperatura (180°C) que las piezas sanas, aunque esta relación es débil (correlación ≈ 0.06),
+   por lo que la temperatura por sí sola no explica completamente la aparición de defectos.
+2. La velocidad de producción extrema muestra la asociación más clara con los defectos entre las
+   variables analizadas (correlación ≈ 0.13), siendo el factor individual más relevante del proceso.
+3. La presión de máquina, dentro del rango analizado, prácticamente no muestra relación con la
+   aparición de defectos (correlación ≈ 0.04).
+4. El pairplot y el boxplot comparativo no permiten distinguir visualmente, de forma clara, a las
+   piezas defectuosas de las sanas, debido al desbalance entre clases (69 piezas defectuosas frente
+   a 431 sanas); esto confirma que ninguna variable por sí sola separa completamente ambos grupos.
 5. El control simultáneo de temperatura y velocidad parece ser más efectivo para reducir defectos
-   que el control aislado de una sola variable.
+   que el control aislado de una sola variable, ya que ambas aportan información relevante, aunque
+   de forma moderada y no determinante.
 
 ## 7. Recomendaciones Empresariales
 

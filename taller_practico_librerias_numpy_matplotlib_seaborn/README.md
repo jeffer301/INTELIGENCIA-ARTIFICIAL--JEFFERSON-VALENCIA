@@ -68,7 +68,9 @@ El notebook incluye **7 visualizaciones**, cada una con su interpretación:
 
 6. Pairplot de variables coloreado por condición de la pieza (Seaborn) <img width="830" height="742" alt="image" src="https://github.com/user-attachments/assets/8d025c77-aa8f-4a72-a684-8e2731dde0b3" />
 
-7. Boxplot comparativo de temperatura según defecto <img width="608" height="360" alt="image" src="https://github.com/user-attachments/assets/b26fa42c-07c4-4988-8867-4a0b1c969187" />
+7. Boxplot comparativo de temperatura según defecto
+
+ <img width="608" height="360" alt="image" src="https://github.com/user-attachments/assets/b26fa42c-07c4-4988-8867-4a0b1c969187" />
 
 
 

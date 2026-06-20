@@ -56,19 +56,26 @@ parte de la variabilidad en la calidad de las piezas.
 
 El notebook incluye **7 visualizaciones**, cada una con su interpretación:
 
-1. Histograma de temperatura de producción <img width="689" height="360" alt="image" src="https://github.com/user-attachments/assets/d250fef4-e6f6-4556-b198-042c7514e6eb" />
+1. Histograma de temperatura de producción <br>
 
-2. Histograma de presión de máquina <img width="563" height="358" alt="image" src="https://github.com/user-attachments/assets/2fc5a3d0-e442-4012-a184-0c4695f53591" />
+<img width="689" height="360" alt="image" src="https://github.com/user-attachments/assets/d250fef4-e6f6-4556-b198-042c7514e6eb" />
 
-3. Gráfico de barras de piezas defectuosas vs sanas <img width="553" height="353" alt="image" src="https://github.com/user-attachments/assets/7a4ae129-f432-4792-865c-5093e52ebbb0" />
+2. Histograma de presión de máquina <br>
 
-4. Heatmap de correlación (Seaborn) <img width="663" height="342" alt="image" src="https://github.com/user-attachments/assets/20f7c6ae-a11d-41eb-a11b-12430c5234ff" />
+<img width="563" height="358" alt="image" src="https://github.com/user-attachments/assets/2fc5a3d0-e442-4012-a184-0c4695f53591" />
 
-5. Boxplot de temperatura <img width="502" height="358" alt="image" src="https://github.com/user-attachments/assets/771c12d2-f59f-48e6-bc99-faa22a7ffc02" />
+3. Gráfico de barras de piezas defectuosas vs sanas <br> <img width="553" height="353" alt="image" src="https://github.com/user-attachments/assets/7a4ae129-f432-4792-865c-5093e52ebbb0" />
 
-6. Pairplot de variables coloreado por condición de la pieza (Seaborn) <img width="830" height="742" alt="image" src="https://github.com/user-attachments/assets/8d025c77-aa8f-4a72-a684-8e2731dde0b3" />
+4. Heatmap de correlación (Seaborn) <br>
+<img width="663" height="342" alt="image" src="https://github.com/user-attachments/assets/20f7c6ae-a11d-41eb-a11b-12430c5234ff" />
 
-7. Boxplot comparativo de temperatura según defecto
+5. Boxplot de temperatura <br>
+<img width="502" height="358" alt="image" src="https://github.com/user-attachments/assets/771c12d2-f59f-48e6-bc99-faa22a7ffc02" />
+
+6. Pairplot de variables coloreado por condición de la pieza (Seaborn) <br>
+<img width="830" height="742" alt="image" src="https://github.com/user-attachments/assets/8d025c77-aa8f-4a72-a684-8e2731dde0b3" />
+
+7. Boxplot comparativo de temperatura según defecto <br>
 
  <img width="608" height="360" alt="image" src="https://github.com/user-attachments/assets/b26fa42c-07c4-4988-8867-4a0b1c969187" />
 

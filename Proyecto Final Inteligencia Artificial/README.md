@@ -101,8 +101,8 @@ Documentación oficial: [scikit-learn — Decision Trees](https://scikit-learn.o
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/jeffer301/<nombre-del-repo>.git
-cd <nombre-del-repo>
+git clone https://github.com/jeffer301/INTELIGENCIA-ARTIFICIAL--JEFFERSON-VALENCIA.git
+cd "INTELIGENCIA-ARTIFICIAL--JEFFERSON-VALENCIA/Proyecto Final Inteligencia Artificial"
 
 # 2. Crear un entorno virtual (opcional pero recomendado)
 python3 -m venv venv

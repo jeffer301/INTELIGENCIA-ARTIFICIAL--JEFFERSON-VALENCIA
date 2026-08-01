@@ -4,7 +4,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-orange?logo=scikit-learn)](https://scikit-learn.org/stable/modules/tree.html)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](#licencia)
-[![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)](notebook/proyecto_final_ml.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeffer301/INTELIGENCIA-ARTIFICIAL--JEFFERSON-VALENCIA/blob/main/Proyecto%20Final%20Inteligencia%20Artificial/notebook/proyecto_final_ml.ipynb)
 
 Proyecto final de la asignatura **Inteligencia Artificial** — Programa de Ingeniería de Sistemas,
 Semestre 8, **Universidad del Pacífico**. Implementa, entrena y evalúa un **Árbol de Decisión**

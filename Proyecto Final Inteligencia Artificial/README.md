@@ -235,7 +235,7 @@ objetivo: ningún algoritmo puede aprender un patrón que no existe en los datos
 
 ## Licencia
 
-Este proyecto tiene fines académicos (Universidad del Pacífico — Inteligencia Artificial).
+Este proyecto tiene fines académicos (Universidad del Pacífico — Ingeniería En Sistemas). 
 Puedes reutilizarlo libremente como referencia bajo licencia [MIT](https://opensource.org/licenses/MIT).
 
 ## 👥 Integrantes

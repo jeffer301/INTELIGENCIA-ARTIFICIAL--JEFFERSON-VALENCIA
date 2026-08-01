@@ -4,6 +4,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-orange?logo=scikit-learn)](https://scikit-learn.org/stable/modules/tree.html)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](#licencia)
+[![Dataset](https://img.shields.io/badge/Dataset-CSV-2ea44f?logo=databricks&logoColor=white)](data/ecommerce_reposteria_10000.csv)
 
 Proyecto final de la asignatura **Inteligencia Artificial** — Programa de Ingeniería de Sistemas,
 Semestre 8, **Universidad del Pacífico**. Implementa, entrena y evalúa un **Árbol de Decisión**

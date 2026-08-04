@@ -14,7 +14,7 @@ proyecto de Machine Learning y prestando especial atención a la detección y co
 **overfitting** y **underfitting**.
 
 > 📓 El desarrollo completo, con código, gráficas y explicaciones paso a paso, está en
-> [`notebook/proyecto_final_ml_regresion.ipynb`](notebook/proyecto_final_ml_regresion.ipynb).
+> [`notebook/proyecto_final_ml.ipynb`](notebook/proyecto_final_ml_regresion.ipynb).
 
 ---
 

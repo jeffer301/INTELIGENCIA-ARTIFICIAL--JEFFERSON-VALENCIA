@@ -75,7 +75,7 @@ ejemplos que caen en ellas. Es interpretable, no requiere escalar variables y ca
 lineales — pero es propenso al overfitting si se deja crecer sin control, y no puede extrapolar
 fuera del rango de valores vistos en entrenamiento. Ver el detalle matemático completo, ventajas,
 limitaciones y comparación con otros modelos en el
-[notebook, sección 3](notebook/proyecto_final_ml_regresion.ipynb).
+[notebook, sección 3](notebook/proyecto_final_ml.ipynb).
 
 Documentación oficial: [scikit-learn — Decision Trees (Regression)](https://scikit-learn.org/stable/modules/tree.html#regression)
 
